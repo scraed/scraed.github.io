@@ -6,7 +6,7 @@ main:
     conference_short: ICLR
     conference: ICLR 2026 Blogpost Track
     page: https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/
-    image: https://iclr-blogposts.github.io/2026/assets/img/2026-04-27-rethinking-diffusion-langevin/FastestDiffusionTheory_08.jpg
+    image: https://iclr-blogposts.github.io/2026/assets/img/2026-04-27-rethinking-diffusion-langevin/FastestDiffusionTheory_09.jpg
 
   - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2024)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
