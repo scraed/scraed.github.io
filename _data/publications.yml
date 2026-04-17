@@ -1,5 +1,12 @@
 main:
 
+  - title: 'Rethinking the Diffusion Model from a Langevin Perspective (2026)'
+    authors: <strong>Candi Zheng</strong>, Yuan Lan
+    year: 2026
+    conference_short: ICLR
+    conference: ICLR 2026 Blogpost Track
+    page: https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/
+
   - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2024)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
     year: 2024
