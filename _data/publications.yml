@@ -6,6 +6,7 @@ main:
     conference_short: ICLR
     conference: ICLR 2026 Blogpost Track
     page: https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/
+    image: https://iclr-blogposts.github.io/2026/assets/img/2026-04-27-rethinking-diffusion-langevin/FastestDiffusionTheory_08.jpg
 
   - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2024)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
@@ -14,7 +15,7 @@ main:
     conference: TMLR
     pdf: https://arxiv.org/abs/2502.03491
     page: https://scraed.github.io/LanPaint
-    image: ./assets/img/lanpaintmaxima.JPG
+    image: https://github.com/scraed/LanPaint/blob/master/examples/InpaintChara_45.jpg
 
   - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2023)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^ (*Corresponding authors, ^Equal contribution)

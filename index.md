@@ -15,7 +15,7 @@ My research focuses on two main directions:
 - **Non-equilibrium Physics**: I work on particle kinetics and gas dynamics governed by the Fokker-Planck equation and the Boltzmann equation, including applications of AI to shock waves, light scattering, and constitutive relations.
 
 ## Blog Posts
-Check my [Blog Posts](https://scraed.github.io/scraedBlog/) on diffusion model theory; this series has been organized and published through the ICLR 2026 Blogpost Track, including [*Rethinking the Diffusion Model from a Langevin Perspective*](https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/).
+Check my [Blog Posts](https://scraed.github.io/scraedBlog/) on diffusion model theory; this series has been organized and published through the ICLR 2026 Blogpost Track [*Rethinking the Diffusion Model from a Langevin Perspective*](https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/).
 
 {% include_relative _includes/publications.md %}
 
