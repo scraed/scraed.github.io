@@ -1,6 +1,6 @@
 main:
 
-  - title: 'Rethinking the Diffusion Model from a Langevin Perspective (2026)'
+  - title: 'Rethinking the Diffusion Model from a Langevin Perspective'
     authors: <strong>Candi Zheng</strong>, Yuan Lan
     year: 2026
     conference_short: ICLR
@@ -8,7 +8,7 @@ main:
     page: https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/
     image: https://iclr-blogposts.github.io/2026/assets/img/2026-04-27-rethinking-diffusion-langevin/FastestDiffusionTheory_09.jpg
 
-  - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2024)'
+  - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
     year: 2024
     conference_short: TMLR
@@ -17,7 +17,7 @@ main:
     page: https://scraed.github.io/LanPaint
     image: https://raw.githubusercontent.com/scraed/LanPaint/master/examples/InpaintChara_45.jpg
 
-  - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2023)'
+  - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^ (*Corresponding authors, ^Equal contribution)
     year: 2024
     conference_short: ICML
@@ -27,14 +27,14 @@ main:
     image: ./assets/img/newspaper news english.PNG
 
 
-  - title: Phase Transition in Extended Thermodynamics Triggers Sub-shocks (2023)
+  - title: Phase Transition in Extended Thermodynamics Triggers Sub-shocks
     authors: <strong>Candi Zheng*</strong>, Yang Wang, Shiyi Chen (*Corresponding authors)
     conference_short: Arxiv
     conference: Arxiv Preprint
     pdf: https://arxiv.org/pdf/2304.10742
     image: ./assets/img/PhaseDiagram.PNG
 
-  - title: Stabilizing the Maximal Entropy Moment Method for Rarefied Gas Dynamics at Single-Precision (2023)
+  - title: Stabilizing the Maximal Entropy Moment Method for Rarefied Gas Dynamics at Single-Precision
     authors: <strong>Candi Zheng*</strong>, Yang Wang, Shiyi Chen (*Corresponding authors)
     conference_short: Arxiv
     conference: Arxiv Preprint
@@ -42,14 +42,14 @@ main:
     code: https://github.com/scraed/TheMomentGauge
     image: ./assets/img/sigmax.png
 
-  - title: Data-driven constitutive relation reveals scaling law for hydrodynamic transport coefficients (2023)
+  - title: Data-driven constitutive relation reveals scaling law for hydrodynamic transport coefficients
     authors: <strong>Candi Zheng*</strong>, Yang Wang, Shiyi Chen (*Corresponding authors)
     conference_short: PRE
     conference: Physical Review E
     pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.015104
     image: ./assets/img/PaperSpectra.PNG
 
-  - title: The prediction of a family group of two-dimensional node-line semimetals (2017)
+  - title: The prediction of a family group of two-dimensional node-line semimetals
     authors: Jin, Yuan-Jun, Rui Wang, Jin-Zhu Zhao, Yong-Ping Du, <strong>Can-Di Zheng</strong>, Li-Yong Gan, Jun-Feng Liu, Hu Xu*, and S. Y. Tong* (*Corresponding authors)
     conference_short: Nanoscale
     conference: Nanoscale
