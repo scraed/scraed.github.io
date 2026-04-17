@@ -15,7 +15,7 @@ main:
     conference: TMLR
     pdf: https://arxiv.org/abs/2502.03491
     page: https://scraed.github.io/LanPaint
-    image: https://github.com/scraed/LanPaint/blob/master/examples/InpaintChara_45.jpg
+    image: https://raw.githubusercontent.com/scraed/LanPaint/master/examples/InpaintChara_45.jpg
 
   - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2023)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^ (*Corresponding authors, ^Equal contribution)
